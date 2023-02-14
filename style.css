@@ -1,0 +1,13 @@
+.btn {
+    padding: 15px 25px;
+    background-color: blue;
+    color: white;
+}
+
+.active {
+    border: 2px solid red;
+}
+
+.radius {
+    border-radius: 50%;
+}
